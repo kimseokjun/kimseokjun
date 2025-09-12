@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k03s13j@naver.com&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k03s13j&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k03s13j@naver.com&layout=compact&theme=tokyonight)
 
 ---
