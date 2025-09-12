@@ -22,8 +22,8 @@
 
 ## 🏆 Baekjoon Online Judge (solved.ac)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k03s13j@naver.com)](https://solved.ac/profile/YOUR_BOJ_ID)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=k03s13j@naver.com&theme=warm)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k03s13j)](https://solved.ac/profile/YOUR_BOJ_ID)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=k03s13j&theme=warm)
 
 ---
 
