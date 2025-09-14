@@ -20,17 +20,12 @@
 
 ---
 
-## 🏆 Baekjoon Online Judge (solved.ac)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k03s13j)](https://solved.ac/profile/YOUR_BOJ_ID)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=k03s13j&theme=warm)
 
 ---
 
 ## 🔗 Connect
 - 📫 Email: k03s13j@naver.com
 - 🌍 Blog/Notion: [링크](https://kimseokjun.tistory.com)
-- 💼 LinkedIn: [링크](https://linkedin.com/in/your-id)
 
 ---
 
