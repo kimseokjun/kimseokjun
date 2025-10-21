@@ -34,6 +34,7 @@
 
 ---
 
+---
 ## 🔗 Connect
 - 📫 Email: k03s13j@naver.com
 - 🌍 Blog/Notion: [링크](https://kimseokjun.tistory.com)
@@ -41,7 +42,7 @@
 ---
 
 ✨ *꾸준함이 곧 실력이다. 오늘도 한 발자국 나아갑니다!* ✨
-
+---
 <!--
 **kimseokjun/kimseokjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
