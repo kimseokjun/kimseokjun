@@ -25,7 +25,7 @@
 ## 📊 트로피
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoH100&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kimseokjun&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
   <br/><br/>
 
 ---
