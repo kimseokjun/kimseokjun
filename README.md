@@ -19,7 +19,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseokjun&layout=compact&theme=tokyonight)
 
 ---
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kimseokjun&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
+  <br/><br/>
 
 ---
 
